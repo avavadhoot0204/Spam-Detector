@@ -1,4 +1,5 @@
 # Spam-Detector
+
 Table of Content
 Demo
 Overview
@@ -8,7 +9,7 @@ Deployement on Heroku
 Directory Tree
 Bug / Feature Request
 Demo
-Link: https://spam-blocker.herokuapp.com/
+Link: http://127.0.0.1:5000/
 
 
 
